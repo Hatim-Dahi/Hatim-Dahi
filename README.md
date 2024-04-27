@@ -1,4 +1,5 @@
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=hatim-dahi&label=Visitors&color=0e75b6&style=flat" alt="hatim-dahi" /> </h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=hatim-dahi&label=Visitors&color=0e75b6&style=for-the-badge" alt="hatim-dahi" /> </h3>
+
 <h3 align="left">👤 About Me</h3>
 <p align="left">👋 Hey there! I'm a software developer on a perpetual quest for new tech horizons. Each day is an opportunity to deepen my expertise and explore the latest innovations.
 
